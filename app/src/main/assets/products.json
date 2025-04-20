@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Canvas",
+    "category": "Painting",
+    "description": "High-quality canvas for acrylic and oil painting.",
+    "quantity": 10,
+    "price": 15.99,
+    "imageResourceId": "canvas"
+  },
+  {
+    "name": "Coloring Pencils",
+    "category": "Drawing",
+    "description": "Set of 24 vibrant coloring pencils.",
+    "quantity": 20,
+    "price": 8.50,
+    "imageResourceId": "coloringPencils"
+  },
+  {
+    "name": "Coloring Pens",
+    "category": "Drawing",
+    "description": "Fine-tip pens ideal for coloring and outlining.",
+    "quantity": 15,
+    "price": 9.75,
+    "imageResourceId": "coloringPens"
+  },
+  {
+    "name": "Drawing Pens",
+    "category": "Sketching",
+    "description": "Professional drawing pens with various nib sizes.",
+    "quantity": 12,
+    "price": 12.00,
+    "imageResourceId": "drawingPens"
+  },
+  {
+    "name": "Water Colors",
+    "category": "Painting",
+    "description": "Watercolor set with 36 colors and brush included.",
+    "quantity": 18,
+    "price": 11.49,
+    "imageResourceId": "waterColors"
+  }
+]

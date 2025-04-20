@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Assigment1" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- خلي خلفية التطبيق بيضاء -->
+        <item name="android:windowBackground">#FFFFFF</item>
+    </style>
+
+    <style name="Theme.Assigment1" parent="Base.Theme.Assigment1" />
+</resources>
